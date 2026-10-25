@@ -1,0 +1,11 @@
+Input Size,Algorithm,Median Time (ms),comparisons,copies,digit_inspections,placements
+1000,Merge Sort,2.3267,8698.0,9976.0,,
+1000,LSD Radix Sort,1.9764,,,7000.0,7000.0
+5000,Merge Sort,46.0119,55240.0,61808.0,,
+5000,LSD Radix Sort,23.0984,,,35000.0,35000.0
+10000,Merge Sort,78.0762,120360.0,133616.0,,
+10000,LSD Radix Sort,46.0919,,,70000.0,70000.0
+50000,Merge Sort,443.0405,718271.0,784464.0,,
+50000,LSD Radix Sort,236.1207,,,350000.0,350000.0
+100000,Merge Sort,949.6,1536235.0,1668928.0,,
+100000,LSD Radix Sort,471.6367,,,700000.0,700000.0
